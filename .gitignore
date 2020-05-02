@@ -1,5 +1,7 @@
 # temporary VIM files
-.swp
+*.swp
 
 # txt files
-.txt
+*.txt
+*.xlm
+*.asdsaadsas
